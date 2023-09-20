@@ -19,3 +19,4 @@ Shows the files in the folder that needs to be updated
 # 9 - What does the command 'git add .' do?
 Updates the changes you made in visual studio and allows you to commit
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+Git push origin main
